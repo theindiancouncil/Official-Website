@@ -24,7 +24,7 @@ button {
 }
 .button-one {
 	border: none;
-	font-family: Oswald;
+	font-family: inherit;
 	font-size: inherit;
 	color: inherit;
 	background-color: #000000;
